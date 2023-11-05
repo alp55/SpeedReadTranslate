@@ -41,7 +41,7 @@ veya
 
 Projeyi denemek için [SpeedReadTranslate.exe'yi buradan indirebilirsiniz](https://drive.google.com/file/d/1jaVx60XBbhox6nv7SSGkwiVseNUQLwPT/view?usp=drive_link).
 
-##İletişim
+## İletişim
 
 Sorularınız veya geri bildirimleriniz için lütfen alperen.ulutas.1@gmail.com adresine e-posta gönderin.
 
