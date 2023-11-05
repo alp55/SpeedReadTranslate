@@ -36,6 +36,9 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 ```python
 python main.py
 İletişim
-Sorularınız veya geri bildirimleriniz için lütfen alperen.ulutas.1@gmail.com adresine e-posta gönderin.
 ```
 veya verdigim SpeedReadTranslate.exe ile direk calıştırabilirsiniz.
+
+Sorularınız veya geri bildirimleriniz için lütfen alperen.ulutas.1@gmail.com adresine e-posta gönderin.
+
+
